@@ -1,0 +1,208 @@
+pikabu.ru##.popup__wrapper > .popup__container > .popup__content > .profile.profile_short
+pikabu.ru##.section_padding_none.email-block
+
+www.youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element-show.ytp-ce-bottom-right-quad.ytp-ce-size-640
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
+youtube.com##yt-notification-action-renderer.ytd-popup-container
+youtube.com##.ytp-button.efy-ytp-keyboard-shortcuts
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-cards-teaser
+
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-scroll-min.ytp-pause-overlay
+youtube.com##.iv-click-target
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-element-shadow
+youtube.com/##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+youtube.com/##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
+youtube.com/##.ytp-ce-element.ytp-ce-bottom-right-quad.ytp-ce-size-640
+
+
+vk.com##.page_block feed_friends_recomm.feed_good_authors_recomm
+vk.com##.stories_feed_wrap
+vk.com###main_feed > .wall_module.page_block.feed_post_field_wrap
+vk.com##.profile_rate_warning
+vk.com##.feed_good_authors_recomm
+vk.com##.CovidTooltip
+
+! 3/8/2020 https://www.coral.ru
+www.coral.ru##.callback-widget_old
+
+! 3/9/2020 https://www.interpals.net
+www.interpals.net###adblockAlert
+
+! 3/15/2020 https://badoo.com
+badoo.com##.profile-menu__fast-message.js-fast-message-component.js-core-events-container
+badoo.com##.messenger__banner.js-messages-banner
+badoo.com###first
+badoo.com###notifications
+badoo.com##.contacts__promos.js-im-promos
+badoo.com###notification-40\:8
+
+numbeo.com##.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front
+
+rbc.ru##.js-topline-indicators.g-overflow
+
+! 3/27/2020 https://ria.ru
+ria.ru###widgetBottom
+ria.ru###widgetsButtonChat
+
+! 3/29/2020 https://hh.ru
+hh.ru##.smartbanner.HH-SmartBanner
+hh.ru##.action-sheet-container.HH-ActionSheet-Action
+hh.ru##.application-promo
+
+www.google.com##.g > .rc > div:nth-child(3)
+
+vseapteki.ru##.ccc1a9b780
+
+! 4/6/2020 https://cxem.net
+cxem.net##.cont_left
+
+! 4/7/2020 https://www.jetbrains.com
+www.jetbrains.com##svg
+
+! 4/8/2020 https://m.market.yandex.ru
+m.market.yandex.ru##.modalFloatPortal
+
+habr.com###xpanel
+!ozon.ru##.b8
+
+! 4/15/2020 https://www.kinopoisk.ru
+www.kinopoisk.ru###h2xx4x2jujpvov > .hwjic8xz2vdgt6tdk7vu2w6
+www.kinopoisk.ru##.promoacrvassm2qbauxyi8wk
+www.kinopoisk.ru##.promoacrvassm2qbauxyi8wk_visible
+www.kinopoisk.ru##.a3w8ypqrhfxcxvr86c2ybaxdbq8l5hao
+www.kinopoisk.ru###a9m4w23zbwdzww > div:nth-of-type(2)
+www.kinopoisk.ru##.desktop-layout-with-sidebar__wrapper > div:nth-of-type(1)
+
+! 4/22/2020 https://www.kommersant.ru
+www.kommersant.ru##.new-subscription-popup.important_news_popup
+
+! 4/27/2020 https://web.whatsapp.com
+web.whatsapp.com##.m6ZEb
+
+! 5/2/2020 https://market.yandex.ru
+market.yandex.ru##.n-review-poll
+market.yandex.ru##.n-snippet-list__app-promo-wrapper
+
+! 5/3/2020 https://www.ozon.ru
+www.ozon.ru##.aj.b0b7
+www.ozon.ru##.a8c2.b0b7
+www.ozon.ru##.a6v0.a6v6
+www.ozon.ru##.twoItems4.b0b7
+
+! 5/4/2020 https://beru.ru
+beru.ru##.wrItvb7JRv
+beru.ru##div[data-zone-data*="С этим товаром покупают"]
+beru.ru##div[data-zone-data*="С этим товаром смотрят"]
+beru.ru##div[data-zone-data*="Стоит приглядеться"]
+
+! 5/8/2020 https://www.banki.ru
+www.banki.ru##.l7e6a58f5
+
+! 5/11/2020 https://www.banki.ru
+www.banki.ru##.l912cc8e0.l0ca09417
+
+! 5/14/2020 https://www.interfax.ru
+www.interfax.ru##.bss__wrap
+
+! 5/16/2020 https://qna.habr.com
+qna.habr.com###register-banner
+
+! 5/20/2020 https://medium.com
+medium.com###credential_picker_container
+
+! 5/24/2020 https://pikabu.ru
+pikabu.ru##.sidebar-block.sidebar-block_border.sidebar-block_mail.email-block
+
+domofond.ru##.map-tooltip__root___3jyTl.map-search-result__tooltip___2aE5z
+
+
+www.perekrestok.ru##.js-mobile-app.sticky
+
+! 5/30/2020 https://market.yandex.ru
+market.yandex.ru##div[data-apiary-widget-name="@MarketNode/ReviewPollPopup"]
+market.yandex.ru##div[data-apiary-widget-name="@MarketNode/Notification"]
+
+! 6/4/2020 https://www.kinopoisk.ru
+www.kinopoisk.ru##.hauyngmfyxh2m9cff5rr31u
+
+! 6/5/2020 https://discord.com
+discord.com##.layerContainer-yqaFcK
+
+! 6/10/2020 https://www.cian.ru
+www.cian.ru##._93444fe79c--notification--23irg
+
+! 6/11/2020 https://www.banki.ru
+www.banki.ru##.l1c990629.lc628437f
+
+! 6/16/2020 https://www.pinterest.com
+www.pinterest.com###credential_picker_container
+
+! 6/24/2020 https://www.garant.ru
+www.garant.ru##.popup-social
+
+!domclick.ru##.dc-tooltip-portal-wrapper
+
+! 6/24/2020 https://vidnoye.cian.ru
+cian.ru##._93444fe79c--notification--23irg
+
+
+! 6/24/2020 https://www.instagram.com
+www.instagram.com##._9AhH0
+
+livejournal.com##.b-discoverytimes-wrapper
+tinder.com##h4[class="Maw(340px) Fw($regular)"]
+tinder.com##div[class="modal-zoom-in StretchedBox CenterAlign Z(1)"]
+
+! 6/28/2020 https://www.cian.ru
+www.cian.ru##._02712f2b3b--background--Rxkbh
+#vk.com##.tt_w
+
+! 7/5/2020 https://www.rbc.ru
+www.rbc.ru##.forecast__news
+
+! 7/6/2020 https://www.rbc.ru
+www.rbc.ru##.topline__indicators.js-topline-second
+
+! 7/7/2020 https://www.linkedin.com
+www.linkedin.com###msg-overlay
+
+! 7/7/2020 https://www.glassdoor.com
+www.glassdoor.com###CovidInfoBanner
+
+! 7/7/2020 https://www.linkedin.com
+www.linkedin.com###artdeco-toasts__wormhole
+
+! 7/9/2020 https://habr.com
+habr.com##.pinned-block
+
+! 7/9/2020 https://www.monster.com
+www.monster.com##.covid19
+
+! 7/9/2020 https://vk.com
+vk.com##.ShortVideoFeedBlock
+vk.com##.reply_submit_hint_wrap
+
+! 7/12/2020 https://www.aviasales.ru
+www.aviasales.ru##.notify-bar
+
+! 7/24/2020 https://pikabu.ru
+pikabu.ru##.header-right-menu__notification
+pikabu.ru##.birthday-2020__button
+pikabu.ru##.pik-virus-popup
