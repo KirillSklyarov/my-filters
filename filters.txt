@@ -206,3 +206,5 @@ www.aviasales.ru##.notify-bar
 pikabu.ru##.header-right-menu__notification
 pikabu.ru##.birthday-2020__button
 pikabu.ru##.pik-virus-popup
+
+music.youtube.com##yt-bubble-hint-renderer
