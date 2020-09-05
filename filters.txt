@@ -38,6 +38,7 @@ vk.com###main_feed > .wall_module.page_block.feed_post_field_wrap
 vk.com##.profile_rate_warning
 vk.com##.feed_good_authors_recomm
 vk.com##.CovidTooltip
+vk.com##.apps_feedRightAppsBlock 
 
 ! 3/8/2020 https://www.coral.ru
 www.coral.ru##.callback-widget_old
