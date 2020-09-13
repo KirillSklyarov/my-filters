@@ -209,3 +209,5 @@ pikabu.ru##.birthday-2020__button
 pikabu.ru##.pik-virus-popup
 
 music.youtube.com##yt-bubble-hint-renderer
+
+www.merriam-webster.com###recirc-bar-footer
