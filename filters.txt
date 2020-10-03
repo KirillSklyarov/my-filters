@@ -211,3 +211,5 @@ pikabu.ru##.pik-virus-popup
 music.youtube.com##yt-bubble-hint-renderer
 
 www.merriam-webster.com###recirc-bar-footer
+
+translate.google.ru##.notification-area
