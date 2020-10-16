@@ -214,3 +214,5 @@ www.merriam-webster.com###recirc-bar-footer
 
 translate.google.ru##.notification-area
 beeline.ru##._21FeH0
+
+developer.mozilla.org##.developer-needs
